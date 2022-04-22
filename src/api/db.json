@@ -1,0 +1,28 @@
+{
+  "nuevo_testamento": [
+    {
+      "id": 1,
+      "name": "Mateo",
+      "section": "Evangelios",
+      "chapters": "29"
+    },
+    {
+      "id": 2,
+      "name": "Marcos",
+      "section": "Evangelios",
+      "chapters": "20"
+    },
+    {
+      "id": 3,
+      "name": "Lucas",
+      "section": "Evangelios",
+      "chapters": 24
+    },
+    {
+      "id": 4,
+      "name": "Juan",
+      "section": "Evangelios",
+      "chapters": 21
+    }
+  ]
+}
